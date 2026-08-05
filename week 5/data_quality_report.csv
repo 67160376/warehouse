@@ -1,0 +1,9 @@
+﻿Metric,Before,After,Description
+rows,630.0,612,จำนวนแถวทั้งหมด (ไม่รวมแถวซ้ำที่ถูกลบ)
+missing_email,50.0,0,จำนวน Customer_Email ที่เป็นค่าว่าง
+exact_duplicates,18.0,0,จำนวนแถวซ้ำทั้งแถว
+invalid_dates,,7,จำนวนวันที่ที่ parse ไม่ได้และต้อง fallback จาก Load_Timestamp
+mismatched_amounts,,50,จำนวนแถวที่ Transaction_Amount ไม่ตรงกับสูตรเกิน 1 บาท (Accuracy_Flag)
+outliers_capped,,19,จำนวนแถว (ไม่ใช่โปรโมชัน) ที่ถูก Capping ด้วย IQR
+late_loads,,38,จำนวนแถวที่โหลดข้อมูลล่าช้าเกิน 24 ชั่วโมง
+invalid_statuses,,5,จำนวนแถวที่ Order_Status ไม่อยู่ในชุดค่าที่ถูกต้อง (Unknown)
