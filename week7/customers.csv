@@ -1,0 +1,181 @@
+customer_id,customer_name,province,segment,signup_date
+C0001,Customer 001,Rayong,VIP,2025-01-11
+C0002,Customer 002,Chanthaburi,VIP,2025-03-16
+C0003,Customer 003,Bangkok,Student,2025-07-18
+C0004,Customer 004,Chonburi,Corporate,2025-02-04
+C0005,Customer 005,Rayong,Corporate,2025-06-03
+C0006,Customer 006,Chonburi,General,2025-11-22
+C0007,Customer 007,Chachoengsao,Corporate,2025-09-26
+C0008,Customer 008,Bangkok,VIP,2024-09-02
+C0009,Customer 009,Samut Prakan,General,2025-09-11
+C0010,Customer 010,Bangkok,General,2025-07-17
+C0011,Customer 011,Bangkok,VIP,2024-02-05
+C0012,Customer 012,Rayong,VIP,2025-10-13
+C0013,Customer 013,Rayong,Student,2024-04-03
+C0014,Customer 014,Bangkok,Corporate,2025-05-20
+C0015,Customer 015,Rayong,Student,2025-02-03
+C0016,Customer 016,Chanthaburi,Corporate,2025-09-04
+C0017,Customer 017,Chachoengsao,Student,2024-09-20
+C0018,Customer 018,Rayong,Student,2025-10-15
+C0019,Customer 019,Samut Prakan,VIP,2025-10-16
+C0020,Customer 020,Chachoengsao,VIP,2024-11-29
+C0021,Customer 021,Rayong,Corporate,2024-12-09
+C0022,Customer 022,Rayong,VIP,2024-02-17
+C0023,Customer 023,Chachoengsao,Student,2025-05-13
+C0024,Customer 024,Samut Prakan,Corporate,2024-09-23
+C0025,Customer 025,Chonburi,VIP,2024-10-04
+C0026,Customer 026,Bangkok,Student,2024-08-17
+C0027,Customer 027,Rayong,Student,2025-05-15
+C0028,Customer 028,Rayong,Corporate,2024-12-07
+C0029,Customer 029,Samut Prakan,VIP,2024-04-01
+C0030,Customer 030,Samut Prakan,General,2024-04-15
+C0031,Customer 031,Chachoengsao,VIP,2025-10-10
+C0032,Customer 032,Chanthaburi,VIP,2024-08-06
+C0033,Customer 033,Chanthaburi,Corporate,2025-09-02
+C0034,Customer 034,Rayong,Student,2024-10-01
+C0035,Customer 035,Samut Prakan,General,2024-12-12
+C0036,Customer 036,Samut Prakan,General,2025-03-21
+C0037,Customer 037,Chanthaburi,VIP,2025-03-26
+C0038,Customer 038,Samut Prakan,Corporate,2025-08-04
+C0039,Customer 039,Chanthaburi,VIP,2025-10-08
+C0040,Customer 040,Chanthaburi,General,2024-04-15
+C0041,Customer 041,Chanthaburi,Corporate,2024-03-18
+C0042,Customer 042,Rayong,VIP,2024-11-21
+C0043,Customer 043,Bangkok,Student,2024-06-17
+C0044,Customer 044,Rayong,VIP,2024-11-04
+C0045,Customer 045,Chonburi,Corporate,2025-05-14
+C0046,Customer 046,Bangkok,VIP,2025-09-25
+C0047,Customer 047,Bangkok,VIP,2025-06-13
+C0048,Customer 048,Chachoengsao,Corporate,2024-11-19
+C0049,Customer 049,Rayong,VIP,2024-02-20
+C0050,Customer 050,Chachoengsao,Student,2025-08-23
+C0051,Customer 051,Chanthaburi,VIP,2025-05-22
+C0052,Customer 052,Chachoengsao,Corporate,2024-10-17
+C0053,Customer 053,Chachoengsao,VIP,2024-09-05
+C0054,Customer 054,Chachoengsao,Student,2024-11-27
+C0055,Customer 055,Samut Prakan,Corporate,2025-11-20
+C0056,Customer 056,Chachoengsao,Student,2025-03-18
+C0057,Customer 057,Chonburi,Student,2024-03-02
+C0058,Customer 058,Rayong,VIP,2024-02-20
+C0059,Customer 059,Rayong,VIP,2024-10-17
+C0060,Customer 060,Chachoengsao,VIP,2025-09-17
+C0061,Customer 061,Samut Prakan,VIP,2025-02-18
+C0062,Customer 062,Chachoengsao,Student,2024-12-23
+C0063,Customer 063,Samut Prakan,Student,2025-06-30
+C0064,Customer 064,Samut Prakan,VIP,2024-07-24
+C0065,Customer 065,Rayong,Student,2025-12-04
+C0066,Customer 066,Chachoengsao,VIP,2024-05-26
+C0067,Customer 067,Samut Prakan,VIP,2024-07-23
+C0068,Customer 068,Chonburi,Student,2025-01-22
+C0069,Customer 069,Bangkok,VIP,2025-02-16
+C0070,Customer 070,Chachoengsao,VIP,2025-03-03
+C0071,Customer 071,Bangkok,VIP,2025-11-09
+C0072,Customer 072,Chachoengsao,Student,2024-10-31
+C0073,Customer 073,Rayong,Student,2025-06-30
+C0074,Customer 074,Chonburi,VIP,2025-01-30
+C0075,Customer 075,Bangkok,Student,2025-03-05
+C0076,Customer 076,Samut Prakan,General,2025-03-06
+C0077,Customer 077,Chonburi,Student,2024-05-14
+C0078,Customer 078,Bangkok,Corporate,2025-10-16
+C0079,Customer 079,Chachoengsao,Corporate,2025-12-04
+C0080,Customer 080,Rayong,General,2024-05-20
+C0081,Customer 081,Bangkok,Corporate,2024-12-15
+C0082,Customer 082,Chachoengsao,VIP,2024-10-16
+C0083,Customer 083,Chonburi,VIP,2025-02-28
+C0084,Customer 084,Chanthaburi,VIP,2025-05-30
+C0085,Customer 085,Chanthaburi,Corporate,2025-10-17
+C0086,Customer 086,Chonburi,VIP,2024-08-22
+C0087,Customer 087,Chanthaburi,Student,2025-09-16
+C0088,Customer 088,Rayong,Student,2024-09-20
+C0089,Customer 089,Bangkok,Corporate,2025-08-13
+C0090,Customer 090,Rayong,General,2025-11-16
+C0091,Customer 091,Bangkok,Student,2024-03-15
+C0092,Customer 092,Bangkok,VIP,2025-02-19
+C0093,Customer 093,Samut Prakan,Corporate,2024-11-25
+C0094,Customer 094,Samut Prakan,Corporate,2025-04-08
+C0095,Customer 095,Chonburi,General,2025-12-26
+C0096,Customer 096,Samut Prakan,General,2025-01-31
+C0097,Customer 097,Chonburi,Corporate,2025-11-23
+C0098,Customer 098,Samut Prakan,VIP,2025-02-18
+C0099,Customer 099,Samut Prakan,Corporate,2024-03-31
+C0100,Customer 100,Samut Prakan,Corporate,2024-04-13
+C0101,Customer 101,Chanthaburi,General,2024-10-24
+C0102,Customer 102,Bangkok,Corporate,2024-07-15
+C0103,Customer 103,Chanthaburi,General,2025-12-23
+C0104,Customer 104,Bangkok,Corporate,2026-01-01
+C0105,Customer 105,Samut Prakan,Corporate,2025-10-23
+C0106,Customer 106,Chanthaburi,Student,2025-12-24
+C0107,Customer 107,Chachoengsao,General,2024-09-20
+C0108,Customer 108,Samut Prakan,General,2025-02-24
+C0109,Customer 109,Chonburi,Corporate,2025-05-22
+C0110,Customer 110,Bangkok,Student,2025-06-06
+C0111,Customer 111,Chachoengsao,General,2024-10-03
+C0112,Customer 112,Chonburi,Student,2024-08-12
+C0113,Customer 113,Bangkok,Student,2024-08-19
+C0114,Customer 114,Chachoengsao,Student,2024-02-21
+C0115,Customer 115,Chanthaburi,Student,2025-04-27
+C0116,Customer 116,Bangkok,Student,2025-12-28
+C0117,Customer 117,Chonburi,Student,2024-08-18
+C0118,Customer 118,Bangkok,Corporate,2025-04-28
+C0119,Customer 119,Samut Prakan,Student,2024-06-10
+C0120,Customer 120,Chachoengsao,General,2024-09-07
+C0121,Customer 121,Chachoengsao,General,2025-02-11
+C0122,Customer 122,Chanthaburi,General,2024-05-12
+C0123,Customer 123,Rayong,General,2024-10-25
+C0124,Customer 124,Rayong,Corporate,2025-06-14
+C0125,Customer 125,Rayong,VIP,2024-10-15
+C0126,Customer 126,Samut Prakan,VIP,2025-09-06
+C0127,Customer 127,Chachoengsao,Student,2025-08-02
+C0128,Customer 128,Chanthaburi,Corporate,2024-12-22
+C0129,Customer 129,Rayong,General,2025-03-04
+C0130,Customer 130,Rayong,VIP,2024-11-25
+C0131,Customer 131,Samut Prakan,Student,2025-07-10
+C0132,Customer 132,Chanthaburi,General,2024-07-20
+C0133,Customer 133,Samut Prakan,VIP,2025-11-20
+C0134,Customer 134,Chachoengsao,General,2024-11-23
+C0135,Customer 135,Chachoengsao,Corporate,2024-05-29
+C0136,Customer 136,Rayong,General,2024-03-28
+C0137,Customer 137,Bangkok,General,2025-09-14
+C0138,Customer 138,Rayong,VIP,2025-05-18
+C0139,Customer 139,Chanthaburi,Corporate,2024-03-09
+C0140,Customer 140,Rayong,Student,2024-03-05
+C0141,Customer 141,Chonburi,General,2025-10-29
+C0142,Customer 142,Chachoengsao,General,2024-11-08
+C0143,Customer 143,Chanthaburi,Student,2025-03-09
+C0144,Customer 144,Rayong,Student,2025-08-18
+C0145,Customer 145,Samut Prakan,Corporate,2025-11-08
+C0146,Customer 146,Chachoengsao,Corporate,2025-05-26
+C0147,Customer 147,Chonburi,Corporate,2025-10-22
+C0148,Customer 148,Chanthaburi,VIP,2025-11-05
+C0149,Customer 149,Chanthaburi,Student,2025-02-28
+C0150,Customer 150,Chanthaburi,General,2024-06-25
+C0151,Customer 151,Chachoengsao,General,2025-09-24
+C0152,Customer 152,Samut Prakan,General,2025-03-05
+C0153,Customer 153,Chonburi,General,2024-11-13
+C0154,Customer 154,Samut Prakan,Corporate,2025-06-19
+C0155,Customer 155,Rayong,General,2024-09-19
+C0156,Customer 156,Samut Prakan,Student,2024-03-13
+C0157,Customer 157,Chachoengsao,General,2025-01-21
+C0158,Customer 158,Samut Prakan,Student,2025-02-23
+C0159,Customer 159,Chachoengsao,Corporate,2025-09-24
+C0160,Customer 160,Chachoengsao,Corporate,2024-07-28
+C0161,Customer 161,Chonburi,VIP,2024-10-02
+C0162,Customer 162,Samut Prakan,Student,2024-05-22
+C0163,Customer 163,Samut Prakan,General,2025-10-19
+C0164,Customer 164,Rayong,Corporate,2025-09-14
+C0165,Customer 165,Rayong,Corporate,2024-03-01
+C0166,Customer 166,Chanthaburi,VIP,2024-11-25
+C0167,Customer 167,Chonburi,General,2025-05-23
+C0168,Customer 168,Bangkok,General,2024-03-18
+C0169,Customer 169,Chanthaburi,Corporate,2024-03-30
+C0170,Customer 170,Samut Prakan,General,2024-10-05
+C0171,Customer 171,Rayong,Student,2025-05-08
+C0172,Customer 172,Bangkok,VIP,2024-08-17
+C0173,Customer 173,Rayong,Corporate,2025-12-02
+C0174,Customer 174,Rayong,Student,2024-08-06
+C0175,Customer 175,Chanthaburi,General,2025-11-15
+C0176,Customer 176,Chachoengsao,Student,2025-03-05
+C0177,Customer 177,Samut Prakan,VIP,2025-01-22
+C0178,Customer 178,Samut Prakan,General,2025-05-05
+C0179,Customer 179,Rayong,General,2024-05-20
+C0180,Customer 180,Chanthaburi,Student,2024-05-21

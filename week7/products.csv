@@ -1,0 +1,49 @@
+product_id,product_name,category,unit_price,active_flag
+P001,Product 01,Beverage,29.67,Y
+P002,Product 02,Snack,204.81,Y
+P003,Product 03,Personal Care,344.85,Y
+P004,Product 04,Stationery,1451.77,Y
+P005,Product 05,Electronics,649.9,Y
+P006,Product 06,Beverage,967.02,Y
+P007,Product 07,Snack,619.54,Y
+P008,Product 08,Personal Care,292.37,Y
+P009,Product 09,Stationery,192.56,Y
+P010,Product 10,Electronics,1366.97,Y
+P011,Product 11,Beverage,616.6,Y
+P012,Product 12,Snack,855.72,Y
+P013,Product 13,Personal Care,848.73,Y
+P014,Product 14,Stationery,358.74,Y
+P015,Product 15,Electronics,320.33,Y
+P016,Product 16,Beverage,878.59,Y
+P017,Product 17,Snack,1281.37,N
+P018,Product 18,Personal Care,549.89,Y
+P019,Product 19,Stationery,1281.45,Y
+P020,Product 20,Electronics,62.79,Y
+P021,Product 21,Beverage,1114.51,Y
+P022,Product 22,Snack,840.27,Y
+P023,Product 23,Personal Care,784.71,Y
+P024,Product 24,Stationery,241.87,Y
+P025,Product 25,Electronics,833.67,Y
+P026,Product 26,Beverage,1185.43,Y
+P027,Product 27,Snack,817.79,Y
+P028,Product 28,Personal Care,386.57,Y
+P029,Product 29,Stationery,450.41,Y
+P030,Product 30,Electronics,915.53,Y
+P031,Product 31,Beverage,599.9,Y
+P032,Product 32,Snack,624.66,Y
+P033,Product 33,Personal Care,654.4,Y
+P034,Product 34,Stationery,530.09,N
+P035,Product 35,Electronics,997.99,Y
+P036,Product 36,Beverage,220.86,Y
+P037,Product 37,Snack,185.91,Y
+P038,Product 38,Personal Care,979.4,Y
+P039,Product 39,Stationery,688.83,Y
+P040,Product 40,Electronics,1472.44,Y
+P041,Product 41,Beverage,1291.92,Y
+P042,Product 42,Snack,733.19,Y
+P043,Product 43,Personal Care,1295.01,Y
+P044,Product 44,Stationery,766,Y
+P045,Product 45,Electronics,1459.08,Y
+P046,Product 46,Beverage,187.09,Y
+P047,Product 47,Snack,613.02,Y
+P048,Product 48,Personal Care,211.32,Y
