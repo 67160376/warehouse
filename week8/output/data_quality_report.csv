@@ -1,0 +1,21 @@
+﻿dataset,check,before,after,note
+orders,schema alignment,ordered_at/qty/discount_pct,order_date/quantity/discount,เปลี่ยนชื่อคอลัมน์ของไฟล์ ก.พ. ให้ตรงกับ ม.ค.
+orders,date format,2 รูปแบบ (ISO / DD-MM-YYYY),datetime64 รูปแบบเดียว,แปลงไม่ได้ 0 แถว
+orders,discount format,0.05 และ '5%',float 0-1,แปลง % เป็นสัดส่วน
+orders,duplicate rows,752,750,"ซ้ำทั้งแถว 2, order_id ซ้ำ 0"
+orders,invalid quantity (<=0),2,0,ตัดออกจาก fact table
+orders,missing unit_price,2,0,เติมด้วย standard_price จาก product_master
+customers,province standardization,14,6,รวมชื่อไทย/อังกฤษ/ตัวย่อ/สะกดผิด
+customers,duplicate customer_id,163,160,เก็บแถวแรก
+customers,email lowercase/trim,9,0,แปลงเป็นตัวพิมพ์เล็กและตัดช่องว่าง
+customers,missing email,5,5,คงไว้ (ไม่ใช่ key)
+products,duplicate product_id,40,40,-
+payments,duplicate payment,752,751,ซ้ำทั้งแถว/ซ้ำ order_id
+integration,orders ไม่พบ customer,22,0,"customer_id: C0161, C0162, C0163, C0164, C0165 -> ใส่ UNKNOWN"
+integration,orders ไม่พบ product,2,0,product_id: P999 -> ใส่ UNKNOWN
+integration,orders ไม่มี payment,0,0,-
+integration,payment ไม่มี order (orphan),1,1,ORD999999 -> ไม่นำเข้า fact
+summary,orders ทั้งหมดหลัง integration,752,748,หลังลบซ้ำและตัดค่าผิดปกติ
+summary,customers ใน dim,163,165,รวมสมาชิก UNKNOWN
+summary,products ใน dim,40,41,รวมสมาชิก UNKNOWN
+summary,null ทั้งหมดใน fact_sales,-,0,ส่วนใหญ่มาจาก order ที่ไม่มี payment

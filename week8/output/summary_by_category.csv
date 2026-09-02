@@ -1,0 +1,6 @@
+﻿category,n_orders,total_qty,net_sales,avg_order_value,pct_of_total
+Smartphone,182,388,3095225.58,17006.73,29.72
+Accessory,187,353,2799679.21,14971.55,26.88
+Notebook,166,334,2261986.69,13626.43,21.72
+Smart Home,148,305,2243869.57,15161.28,21.55
+Unknown,2,5,12938.08,6469.04,0.12

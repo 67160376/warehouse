@@ -1,0 +1,42 @@
+﻿product_id,product_name,category,standard_price,active_flag
+P001,Notebook Model 01,Notebook,299.0,Y
+P002,Smartphone Model 02,Smartphone,1490.0,Y
+P003,Smartphone Model 03,Smartphone,25900.0,Y
+P004,Smart Home Model 04,Smart Home,1490.0,Y
+P005,Smartphone Model 05,Smartphone,299.0,Y
+P006,Accessory Model 06,Accessory,299.0,Y
+P007,Notebook Model 07,Notebook,25900.0,Y
+P008,Accessory Model 08,Accessory,499.0,Y
+P009,Notebook Model 09,Notebook,299.0,Y
+P010,Smart Home Model 10,Smart Home,990.0,Y
+P011,Accessory Model 11,Accessory,25900.0,Y
+P012,Accessory Model 12,Accessory,990.0,Y
+P013,Smart Home Model 13,Smart Home,499.0,Y
+P014,Notebook Model 14,Notebook,990.0,Y
+P015,Notebook Model 15,Notebook,299.0,Y
+P016,Accessory Model 16,Accessory,1490.0,Y
+P017,Smartphone Model 17,Smartphone,990.0,Y
+P018,Smartphone Model 18,Smartphone,3990.0,Y
+P019,Smartphone Model 19,Smartphone,3990.0,Y
+P020,Smart Home Model 20,Smart Home,499.0,Y
+P021,Smart Home Model 21,Smart Home,25900.0,Y
+P022,Accessory Model 22,Accessory,499.0,Y
+P023,Accessory Model 23,Accessory,299.0,Y
+P024,Accessory Model 24,Accessory,299.0,Y
+P025,Accessory Model 25,Accessory,25900.0,Y
+P026,Smart Home Model 26,Smart Home,12900.0,Y
+P027,Smartphone Model 27,Smartphone,25900.0,Y
+P028,Smartphone Model 28,Smartphone,299.0,Y
+P029,Notebook Model 29,Notebook,3990.0,Y
+P030,Smartphone Model 30,Smartphone,499.0,Y
+P031,Smart Home Model 31,Smart Home,1490.0,Y
+P032,Notebook Model 32,Notebook,25900.0,Y
+P033,Smart Home Model 33,Smart Home,12900.0,Y
+P034,Accessory Model 34,Accessory,299.0,Y
+P035,Accessory Model 35,Accessory,25900.0,Y
+P036,Notebook Model 36,Notebook,299.0,Y
+P037,Smart Home Model 37,Smart Home,25900.0,Y
+P038,Smartphone Model 38,Smartphone,12900.0,N
+P039,Notebook Model 39,Notebook,990.0,N
+P040,Accessory Model 40,Accessory,3990.0,N
+P999,UNKNOWN PRODUCT,Unknown,,N
